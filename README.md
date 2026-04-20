@@ -1,11 +1,11 @@
-
+---
 
 ```md
 # CodeVault Frontend
 
-CodeVault is a modern code snippet manager that lets you **create, search, and manage code snippets** with a clean UI and smooth experience.
+CodeVault is a modern code snippet manager that lets you create, search, and manage code snippets with a clean UI and smooth experience.
 
-This is the frontend built using **React + Tailwind CSS**, connected to a Node.js + MongoDB backend API.
+This is the frontend built using React + Tailwind CSS, connected to a Node.js + MongoDB backend API.
 
 ---
 
