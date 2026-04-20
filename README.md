@@ -38,7 +38,7 @@ This is the frontend built using React + Tailwind CSS, connected to a Node.js + 
 ### 1. Clone the repo
 
 ```bash
-git clone <your-frontend-repo-url>
+git clone https://github.com/kajolsinghme/codevault-frontend.git
 cd codevault-frontend
 ```
 
