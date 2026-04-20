@@ -33,24 +33,6 @@ This is the frontend built using React + Tailwind CSS, connected to a Node.js + 
 
 ---
 
-## 📁 Project Structure
-
-```
-
-src/
-├── components/
-│    ├── SearchBar.jsx
-│    ├── SnippetForm.jsx
-│    └── SnippetList.jsx
-├── services/
-│    └── api.js
-├── App.jsx
-└── main.jsx
-
-````
-
----
-
 ## Getting Started
 
 ### 1. Clone the repo
