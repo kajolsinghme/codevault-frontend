@@ -54,7 +54,7 @@ const handleSearch = async (query) => {
         </div>
       </header>
 
-      <main className="max-w-3xl mx-auto px-4 space-y-8">
+      <main className="max-w-3xl mx-auto px-4 space-y-7">
         <section className="space-y-4">
           <SearchBar searchQuery={searchQuery} onSearch={handleSearch} />
         </section>
