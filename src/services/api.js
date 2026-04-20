@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:4000/api",
+  baseURL: "https://codevault-backend-7ph6.onrender.com/api",
 });
 
 export const createSnippet = (data) => API.post("/snippets", data);
