@@ -46,17 +46,16 @@ cd codevault-frontend
 
 ### 2. Install dependencies
 
-```bash
 npm install
-```
+
 
 ---
 
 ### 3. Run locally
 
-```bash
+
 npm run dev
-```
+
 
 ---
 
