@@ -40,7 +40,7 @@ This is the frontend built using React + Tailwind CSS, connected to a Node.js + 
 ```bash
 git clone <your-frontend-repo-url>
 cd codevault-frontend
-````
+```
 
 ---
 
